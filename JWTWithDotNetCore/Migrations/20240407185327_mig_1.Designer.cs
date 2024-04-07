@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JWTWithDotNetCore.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240407143527_mig_1")]
+    [Migration("20240407185327_mig_1")]
     partial class mig_1
     {
         /// <inheritdoc />
