@@ -10,34 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2384a2a5-326e-49e4-8a31-728bd1a86967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.JWTWithDotNetCore1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JWTWithDotNetCore/Controllers/AuthController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JWTWithDotNetCore/DTOs/LoginDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JWTWithDotNetCore/DTOs/RegisterDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JWTWithDotNetCore/DTOs/UpdatePermissionDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JWTWithDotNetCore/Roles/StaticUserRoles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/Contextes/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/Contextes/ApplicationDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/JWTWithDotNetCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/JWTWithDotNetCore.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/Migrations/20240407143527_mig_1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/Migrations/20240407143527_mig_1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/bin/Debug/net8.0/JWTWithDotNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/bin/Debug/net8.0/JWTWithDotNetCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/bin/Debug/net8.0/JWTWithDotNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/bin/Debug/net8.0/JWTWithDotNetCore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/bin/Debug/net8.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/bin/Debug/net8.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/ref/JWTWithDotNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/ref/JWTWithDotNetCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/refint/JWTWithDotNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/Debug/net8.0/refint/JWTWithDotNetCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JWTWithDotNetCore/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/JWTWithDotNetCore/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="2384a2a5-326e-49e4-8a31-728bd1a86967" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/zekifurkandurum/RiderProjects/JWTWithDotNetCore/JWTWithDotNetCore/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/zekifurkandurum/RiderProjects/JWTWithDotNetCore/JWTWithDotNetCore/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/zekifurkandurum/RiderProjects/JWTWithDotNetCore/JWTWithDotNetCore/Contextes/ApplicationDbContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/zekifurkandurum/RiderProjects/JWTWithDotNetCore/JWTWithDotNetCore/obj/Debug/net8.0/JWTWithDotNetCore.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -158,7 +130,7 @@
       <workItem from="1712496171978" duration="11771000" />
       <workItem from="1712515991736" duration="964000" />
       <workItem from="1712517010310" duration="1288000" />
-      <workItem from="1712520507517" duration="310000" />
+      <workItem from="1712520507517" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="ApplicationDbContext created">
       <option name="closed" value="true" />
@@ -200,7 +172,63 @@
       <option name="project" value="LOCAL" />
       <updated>1712501437671</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="migration">
+      <option name="closed" value="true" />
+      <created>1712521169183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712521169183</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ApplicationDbContext">
+      <option name="closed" value="true" />
+      <created>1712521179984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712521179984</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DTOs created">
+      <option name="closed" value="true" />
+      <created>1712521210361</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712521210361</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712521243413</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712521243413</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DTOs created">
+      <option name="closed" value="true" />
+      <created>1712521254933</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712521254933</updated>
+    </task>
+    <task id="LOCAL-00011" summary="StaticUserRoles created">
+      <option name="closed" value="true" />
+      <created>1712521270671</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712521270671</updated>
+    </task>
+    <task id="LOCAL-00012" summary="AuthController Created">
+      <option name="closed" value="true" />
+      <created>1712521291541</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712521291541</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +241,12 @@
     <MESSAGE value="Add Authentication and Identity" />
     <MESSAGE value="Added AddJwtBearer" />
     <MESSAGE value="Commit" />
+    <MESSAGE value="migration" />
+    <MESSAGE value="ApplicationDbContext" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="DTOs created" />
+    <MESSAGE value="StaticUserRoles created" />
+    <MESSAGE value="AuthController Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="AuthController Created" />
   </component>
 </project>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWTWithDotNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7db9d9c300f92dbb6033f6710c4724d4c5b8f915")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd6369e3303145a17603bd71c7872ee52865925c")]
 [assembly: System.Reflection.AssemblyProductAttribute("JWTWithDotNetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWTWithDotNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
